@@ -1,0 +1,37 @@
+@media screen and (min-width: 768px) and (max-width: 1000px){
+    .contenedor {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        padding: 50px 0;
+        height: auto;
+        width: 85%;
+    }
+    .cartas{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+@media screen and (min-width: 501px) and (max-width: 800px){
+    .contenedor {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        padding: 50px 0;
+        width: 85%;
+    }
+    .cartas{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+    }
+}
+@media screen and (min-width: 0px) and (max-width: 500px){
+    .contenedor {
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        padding: 50px 0;
+        height: auto;
+        width: 85%;
+    }
+}
