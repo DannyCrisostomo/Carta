@@ -33,5 +33,5 @@ Este es un código HTML que representa tarjetas de anime con un diseño moderno 
 
 ¡Espero que encuentres útil este diseño de tarjetas de anime! 🎴✨
 
-##Vista Previa
+## Vista Previa
 ![php](https://github.com/DannyCrisostomo/Carta/blob/main/Carta.png)
