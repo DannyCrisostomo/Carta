@@ -1,6 +1,13 @@
 # Tarjetas
 Este es un código HTML que representa tarjetas de anime con un diseño moderno y atractivo. Cada tarjeta incluye una imagen, un título y una descripción del anime. Además, se proporciona un botón que enlaza a una tienda web relacionada con anime.
 
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://tiny-lollipop-6064e4.netlify.app/).
+
+
+![php](https://github.com/DannyCrisostomo/Carta/blob/main/Carta.png)
+
 ## Estructura de Archivos
 
 - **css/style.css:** Hoja de estilo principal para dar formato a las tarjetas.
@@ -33,5 +40,3 @@ Este es un código HTML que representa tarjetas de anime con un diseño moderno 
 
 ¡Espero que encuentres útil este diseño de tarjetas de anime! 🎴✨
 
-## Vista Previa
-![php](https://github.com/DannyCrisostomo/Carta/blob/main/Carta.png)
