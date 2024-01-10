@@ -5,7 +5,6 @@ Este es un código HTML que representa tarjetas de anime con un diseño moderno 
 
 Puedes acceder a una vista previa en vivo del prototipo [aquí](https://tiny-lollipop-6064e4.netlify.app/).
 
-
 ![php](https://github.com/DannyCrisostomo/Carta/blob/main/Carta.png)
 
 ## Estructura de Archivos
